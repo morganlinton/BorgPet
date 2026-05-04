@@ -1,8 +1,6 @@
-# Borg-Themed Codex pet
+## Borg-themed Codex Pet
 
-## What This Is
-
-This repository contains a custom pet package for the Codex app. It is not an official OpenAI Codex pet. Official pets live in Codex Settings > Appearance > Pets; this package is a community-made custom pet that you can install locally.
+This repository contains a custom pet package for the Codex app. It is not an official OpenAI Codex pet. Official pets live in Codex Settings > Appearance > Pets; this package is a community-made custom pet that you can install locally. Resistance is futile.
 
 ## Files
 
