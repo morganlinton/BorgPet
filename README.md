@@ -1,8 +1,4 @@
-# <Pet Name>
-
-A custom animated Codex pet.
-
-![<Pet Name> preview](./preview.png)
+An animated Borg-Themed Codex pet.
 
 ## What This Is
 
@@ -55,7 +51,3 @@ The manifest should reference the spritesheet by relative path:
 ## Compatibility
 
 This pet uses the custom Codex pet package format: a `pet.json` manifest plus a transparent animated `spritesheet.webp` atlas.
-
-## License
-
-Choose a license before publishing this repository. If this pet uses generated art, reference art, logos, characters, or brand elements, make sure you have the rights to share them publicly.
