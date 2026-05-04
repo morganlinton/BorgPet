@@ -1,4 +1,4 @@
-An animated Borg-Themed Codex pet.
+# Borg-Themed Codex pet
 
 ## What This Is
 
