@@ -1,0 +1,6 @@
+{
+  "id": "borglet",
+  "displayName": "Borglet",
+  "description": "A tiny Borg-inspired cybernetic drone companion for the Codex workspace.",
+  "spritesheetPath": "spritesheet.webp"
+}
